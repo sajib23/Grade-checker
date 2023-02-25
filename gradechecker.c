@@ -38,10 +38,5 @@ else{
 
 
 printf("Thank you\n");
-
-
-
-
-
     return 0;
 }
